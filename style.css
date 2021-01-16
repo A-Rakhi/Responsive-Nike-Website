@@ -102,6 +102,9 @@ p{
     padding: 5px 10px 5px 10px;
 }
 
+  /*-----media query----*/
+
+
 @media (min-width: 992px) and (max-width: 1199.98px)
  {
         .card{
@@ -139,8 +142,6 @@ p{
     
   }
 
-
-  /*-----media query----*/
   
   @media (min-width: 768px) and (max-width: 991.98px) { 
     .card{
